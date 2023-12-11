@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Prilozhenie1",
+  "applicationTitle": "Prilozhenie1",
+  "items": [
+    {
+      "link": null,
+      "menuName": "prilozhenie1",
+      "caption": "Prilozhenie1",
+      "title": "Prilozhenie1",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie1-спр-контр-аг-l",
+          "menuName": null,
+          "caption": "Спр контр аг",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
